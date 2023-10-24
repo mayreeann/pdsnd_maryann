@@ -24,8 +24,6 @@ The Chicago and New York City files also have the following two columns:
 * Gender
 * Birth Year
 
-!(https://video.udacity-data.com/topher/2018/March/5aa771dc_nyc-data/nyc-data.png)
-
 The original files are much larger and messier,they can be accessed here if you'd like to see them ([Chicago](https://divvybikes.com/system-data), [New York City](https://citibikenyc.com/system-data), [Washington](https://capitalbikeshare.com/system-data)). 
 These files had more columns and they differed in format in many cases. Some data wrangling has been performed to condense these files to the above core six columns
 
